@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a technologist and strategist who loves building and creating technology solutions
 - 👀 I’m interested in artificial intelligence and machine learning, and passionate about how to use AI/ML for practical applications
 - 🌱 I’m currently interested in exploring data pipelines, AIOps, and MLOps
-- 💞️ I’m looking to collaborate on anything AI/ML related projects
+- 💞️ I’m looking to collaborate on any projects related to AI/ML
 - 📫 Let's collaborate and create together!
 
 <!---
